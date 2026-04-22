@@ -25,8 +25,6 @@ My favourite project I worked on is [Elena Seris' landing page](https://fiorenza
 
 I design and build what I imagine, constantly learning along the way.
 
-I’m currently broadening my skill set by self-studying Cybersecurity and Vue.js | and preparing for certification.
-
 I'm available for work. | Open to opportunities!
 
 <br>
