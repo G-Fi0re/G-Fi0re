@@ -21,8 +21,6 @@ I prototype in Figma while keeping UI|UX fundamentals in ***Mind***.
 
 My core stack comprises HTML5, CSS3, Bootstrap, JavaScript (GSAP) and basic WordPress development | customisation with PHP.
 
-My favourite project I worked on is [Elena Seris' landing page](https://fiorenzatogiorgia.netsons.org/first-project.php), showcased in my portfolio.
-
 I design and build what I imagine, constantly learning along the way.
 
 I'm available for work. | Open to opportunities!
@@ -35,7 +33,6 @@ I'm available for work. | Open to opportunities!
 
 **About me:**
 - ☕ I love coffee and cats 
-- 📚 I’m an intermediate German & French learner
 - ⚖️ I prefer the slow life & equilibrium
 - 🌊 I love the sea
 - 📝 I love using Notion
